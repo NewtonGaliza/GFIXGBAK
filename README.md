@@ -13,3 +13,7 @@
 
 5: Restauração de backup da base
 > gbak -g -c -z -v banco.fbk banco.fdb
+
+
+
+[Firebird Manual]: https://www.firebirdsql.org/file/documentation/pdf/en/firebirddocs/gbak/firebird-gbak.pdf
